@@ -22,6 +22,7 @@ The following describes the process that was taken to create the map being displ
 
 
 The following is an image of the final product.
+![images/WorldEarthquakeMapLast7Days.png](images/WorldEarthquakeMapLast7Days.png)
 
 ## Discussion
 - The map shows that the majority of earthquakes take place on the major fault lines of the world.  There do seem to be smaller earthquakes happening outside of these fault lines (especially in the United States).  The map will change from day to day as the newest earthquakes are entered and the earthquakes more than 7 days old phase out. 
