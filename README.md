@@ -2,7 +2,7 @@
 
 ## Purpose/Overview
 
-This project was meant to provide a visual representation of earthquake location and magnitude. The webpage shows all earthquakes and their corresponding magnitudes within the last 7 days. It also show the major fault lines around the world.  
+This project was meant to provide a visual representation of earthquake location and magnitude. The webpage shows all earthquakes and their corresponding magnitudes within the last 7 days. It also shows the major fault lines around the world.  
 
 
 ## Process
