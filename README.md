@@ -18,10 +18,10 @@ The following describes the process that was taken to create the map being displ
   - A layer to show all earthquakes within the last 7 days
   - A layer to show the major fault lines of the world - This data was taken from another github account:
     - "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
-  - A layer to show only those earthquakes with a magnitude of 4 or higher ("Major Earthquakes")
+  - A layer to show only those earthquakes with a magnitude of 4.5 or higher ("Major Earthquakes")
 
-The ultimate goal would be to see how much of a relationship these two data points have.  To make the map more user friendly I did the following things:
-- Gave three options for the base layer.  The user can see street views, satellite street views, or views in dark mode.
-- The earthquake locations are marked with circles that are different colors and sizes based on the magnitude of the earthquake
-- Each location marker will tell the user the magnitude and location of the earthquake at that location
-- The user can overlay the map with three different options.  They may choose to show all earthquakes, only the major earthquakes (over 4.5), and/or choose to show the fault lines
+
+The following is an image of the final product.
+
+## Discussion
+- The map shows that the majority of earthquakes take place on the major fault lines of the world.  There do seem to be smaller earthquakes happening outside of these fault lines (especially in the United States).  The map will change from day to day as the newest earthquakes are entered and the earthquakes more than 7 days old phase out. 
