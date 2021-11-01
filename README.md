@@ -16,9 +16,9 @@ The following describes the process that was taken to create the map being displ
 - Different base map layers were added to allow user to switch between desired modes (Streets, Satellite, and Dark)
 - Different overlay layers were added to allow user to select desired information
  - A layer to show all earthquakes within the last 7 days
--- A layer to show the major fault lines of the world - This data was taken from another github account:
---- "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
--- A layer to show only those earthquakes with a magnitude of 4 or higher ("Major Earthquakes")
+ - A layer to show the major fault lines of the world - This data was taken from another github account:
+  - "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
+ - A layer to show only those earthquakes with a magnitude of 4 or higher ("Major Earthquakes")
 
 The ultimate goal would be to see how much of a relationship these two data points have.  To make the map more user friendly I did the following things:
 - Gave three options for the base layer.  The user can see street views, satellite street views, or views in dark mode.
