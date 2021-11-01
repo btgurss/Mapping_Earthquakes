@@ -15,7 +15,7 @@ The following describes the process that was taken to create the map being displ
 - A legend was created to describe magnitude of each color
 - Different base map layers were added to allow user to switch between desired modes (Streets, Satellite, and Dark)
 - Different overlay layers were added to allow user to select desired information
--- A layer to show all earthquakes within the last 7 days
+ - A layer to show all earthquakes within the last 7 days
 -- A layer to show the major fault lines of the world - This data was taken from another github account:
 --- "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
 -- A layer to show only those earthquakes with a magnitude of 4 or higher ("Major Earthquakes")
